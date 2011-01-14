@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2010 The Android Open Source Project
+<!-- Copyright (C) 2009 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,16 +14,10 @@
      limitations under the License.
 -->
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cooliris.media.tests">
+<resources>
 
-    <application>
-        <uses-library android:name="android.test.runner" />
-    </application>
+    <bool name="reload_on_orientation_change">false</bool>
+    <integer name="max_resolution">2048</integer>
+    <integer name="max_resolution_screennail">1024</integer>
 
-    <instrumentation android:name="com.cooliris.media.Gallery3DLauncher"
-        android:targetPackage="com.cooliris.media"
-        android:label="Gallery3D Launch Performance">
-    </instrumentation>
-
-</manifest>
+</resources>
