@@ -43,7 +43,7 @@
     <string name="camera" msgid="2730811566218090802">"Câmera"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"Salvar"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Descartar"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Toque em uma face para começar."</string>
+    <string name="multiface_crop_help" msgid="3127018992717032779">"Toque em um rosto para começar."</string>
     <string name="saving_image" msgid="7270334453636349407">"Salvando imagem…"</string>
     <string name="crop_label" msgid="521114301871349328">"Cortar imagem"</string>
     <string name="running_face_detection" msgid="4094707964259463039">"Aguarde..."</string>
@@ -92,4 +92,15 @@
     <string name="around" msgid="2223906282110417412">"Perto de"</string>
     <string name="date_unknown" msgid="4277113471036917386">"Data desconhecida"</string>
     <string name="video_err" msgid="7917736494827857757">"Não é possível reproduzir o vídeo"</string>
+    <string name="file_size">Tamanho do arquivo</string>
+    <string name="file_size_unknown">Desconhecido</string>
+    <string name="size">Tamanho</string>
+    <string name="size_unknown">Desconhecido</string>
+    <string name="cam">Câmera</string>
+    <string name="cam_unknown">Desconhecido</string>
+    <string name="menu_open_url">Abrir URL</string>
+    <string name="video_set_url_pos">Abrir</string>
+    <string name="video_set_url_neg">Cancelar</string>
+    <string name="video_set_url_title">Abrir URL</string>
+    <string name="video_set_url_msg">URL de vídeo:</string>
 </resources>

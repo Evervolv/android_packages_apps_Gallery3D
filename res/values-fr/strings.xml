@@ -60,7 +60,7 @@
     <string name="confirm_delete" msgid="5731757674837098707">"Confirmer la suppression"</string>
     <string name="cancel" msgid="3637516880917356226">"Annuler"</string>
     <string name="share" msgid="3619042788254195341">"Partager"</string>
-    <string name="no_sd_card" msgid="2666880203366429182">"Carte SD désactivée ou non connectée"</string>
+    <string name="no_sd_card" msgid="2666880203366429182">"Carte SD désinstallée ou non connectée"</string>
     <string name="no_usb_storage" msgid="9156805088935882242">"Mémoire de stockage USB désinstallée"</string>
     <string name="more" msgid="1526449516720792387">"Plus"</string>
     <string name="select_all" msgid="8623593677101437957">"Tout sélectionner"</string>
@@ -78,6 +78,12 @@
     <string name="location" msgid="3432705876921618314">"Lieu"</string>
     <string name="location_unknown" msgid="6310139243003315255">"Lieu inconnu"</string>
     <string name="title" msgid="7622928349908052569">"Titre"</string>
+    <string name="file_size">"Taille"</string>
+    <string name="file_size_unknown">"Taille inconnue"</string>
+    <string name="size">"Dimensions"</string>
+    <string name="size_unknown">"Dimensions inconnues"</string>
+    <string name="cam">"Appareil photo"</string>
+    <string name="cam_unknown">"Inconnu"</string>
     <string name="type" msgid="4329478642546287192">"Type"</string>
     <string name="taken_on" msgid="3269486910757192479">"Prise"</string>
     <string name="added_on" msgid="5194321063173381814">"Ajoutée le"</string>
@@ -92,4 +98,11 @@
     <string name="around" msgid="2223906282110417412">"À proximité de"</string>
     <string name="date_unknown" msgid="4277113471036917386">"Date inconnue"</string>
     <string name="video_err" msgid="7917736494827857757">"Impossible de lire la vidéo."</string>
+
+    <string name="menu_open_url">Ouvrir l\'URL</string>
+    <string name="video_set_url_pos">Ouvrir</string>
+    <string name="video_set_url_neg">Annuler</string>
+    <string name="video_set_url_title">Ouvrir l\'URL</string>
+    <string name="video_set_url_msg">URL de la vidéo :</string>
+    <string name="video_set_url_hint">rtsp://serveur/fichier</string>
 </resources>
